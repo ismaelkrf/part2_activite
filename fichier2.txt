@@ -1,0 +1,3 @@
+Voici le fichier 2.
+
+Ce fichier ne sera pas modifié au prochain commit.
